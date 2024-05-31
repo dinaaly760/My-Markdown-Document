@@ -67,14 +67,21 @@ hours = minutes / 60
 
 print(f"{minutes} minutes is equal to {hours} hours")
 
-
-### Objectives:
+### Exercise 10 -Insert a markdown cell to list Objectives. (3 pts)
+## Objectives:
 - Understand the basics of Jupyter Notebooks
 - Learn how to create Markdown cells and Code cells
 - Practice using common data science languages and libraries
 - Explore basic arithmetic operations in Python
 
   
+### Exercise 11 - Create a markdown cell to indicate the Author’s name. (2 pts)
 
-  *Author: Dina Aly*
+  **Author: Dina Aly**
+### Exercise 12 - Share your notebook through GitHub (3 pts)
 
+[Link text] (https://github.com/dinaaly760/My-Markdown-Document)
+
+### Exercise 13 - Take a screenshot of the first page of the notebook. (1 pt)
+ ![ Alt Text](https://github.com/dinaaly760/My-Markdown-Document/blob/main/1.jpg)
+ ![Alt Text](https://github.com/dinaaly760/My-Markdown-Document/blob/main/2.jpg)
