@@ -43,15 +43,28 @@ This notebook is an introduction to using Jupyter Notebooks for data science. It
 
 ### Exercise 8 - Create a code cell to multiply and add numbers. (2 pts)
 x = 5
+
 y = 10
+
+
 product = x * y
+
+
 sum = x + y
+
+
 print(f"The product of {x} and {y} is {product}")
+
+
 print(f"The sum of {x} and {y} is {sum}")
 
 ### Exercise 9 - Create a code cell to convert minutes to hours. (2 pts)
 minutes = 120
+
+ 
 hours = minutes / 60
+
+
 print(f"{minutes} minutes is equal to {hours} hours")
 
 
